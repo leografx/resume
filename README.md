@@ -12,15 +12,19 @@ mobile: (407) 715-3901</p>
 
 ## Senior Prepress / Designer
 
-Digital Printing Solutions - Winter Park, FL
+  Digital Printing Solutions - Winter Park, FL
 
-2011 to Present
+  2011 to Present
 
-My current duties consist of designing, preflighting, imposing pdf files to then plot direct to plate for 9 different presses ranging from 12x18 to 23x29
+  My current duties consist of designing, preflighting, imposing pdf files to then plot direct to plate for 9 different presses ranging from 12x18 to 23x29
 
 ## Prepress Tech
 
-2010 to 2011
+  Sun Publications - Lakeland, FL
 
-Prepress Tech, Prinergy workflow  imposition in preps direct to plate for news paper and magazines for Web Presses.
+  2010 to 2011
+
+  Prepress Tech, Prinergy workflow  imposition in preps direct to plate for news paper and magazines for Web Presses.
+
+  Prepress Tech
 
