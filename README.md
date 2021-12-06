@@ -1,6 +1,6 @@
 # Leo Martinez
-<p align="right">1909 Blossom Ln </p>
-<p align="right"> Maitland, FL 32751 </p>
+<p align="right">1909 Blossom Ln <br/>
+Maitland, FL 32751 </p>
 
 
 <p align="right"> email: leografx@gmail.com </p>
