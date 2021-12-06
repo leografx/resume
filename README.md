@@ -23,6 +23,7 @@ mobile: (407) 715-3901</p>
    - PHP
    - BASH
    - RUBY
+   - C#
    - C & C++
    - SQL
    - Swift
