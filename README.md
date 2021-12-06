@@ -18,6 +18,8 @@ mobile: (407) 715-3901</p>
   My current duties consist of designing, preflighting, imposing pdf files to then plot direct to plate for 9 different presses ranging from 12x18 to 23x29
   
   Web development languages:
+   - HTML
+   - CSS
    - Javascript
    - Python
    - PHP
@@ -27,6 +29,19 @@ mobile: (407) 715-3901</p>
    - C & C++
    - SQL
    - Swift
+
+Frameworks:
+
+- Laravel
+- Codeigniter
+- Angular
+- React
+- Rails
+- Django
+- Cocoa
+- SDL2
+- WX Widgets
+
   
 ## Prepress Tech
 
