@@ -12,7 +12,7 @@ mobile: (407) 715-3901</p>
 
 ## Senior Prepress / Designer
 
-  Digital Printing Solutions - Winter Park, FL
+ <strong> Digital Printing Solutions - Winter Park, FL </strong>
 
   2011 to Present
 
@@ -20,11 +20,14 @@ mobile: (407) 715-3901</p>
 
 ## Prepress Tech
 
-  Sun Publications - Lakeland, FL
+ <strong> Sun Publications - Lakeland, FL </strong>
 
   2010 to 2011
 
   Prepress Tech, Prinergy workflow  imposition in preps direct to plate for news paper and magazines for Web Presses.
 
-  Prepress Tech
+## Prepress Tech
 
+<strong> Sun Publications - Lakeland, FL </strong>
+ 
+ 2008 to 2010
