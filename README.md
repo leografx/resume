@@ -26,5 +26,17 @@ mobile: (407) 715-3901</p>
 
 ## Prepress Tech
 
-<strong> Sun Publications - Lakeland, FL </strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<strong> Mercury Group - Winter Park, FL </strong> &nbsp;&nbsp;&nbsp;&nbsp;
  2008 to 2010
+ 
+ Prepress Tech - rampage workflow.
+ 
+ ## Prepress Tech
+
+<strong> Mega Prints Inc - Winter Park, FL </strong> &nbsp;&nbsp;&nbsp;&nbsp;
+ 2004 to 2008
+ 
+Coordinated with clients, to ensure schedule & quality of products.
+Acted as primary liaison with clients throughout production, maintaining daily contact to resolve concerns, facilitating solutions to ensure great result.
+Agfa Prosetter with prinect, signastation
+Graphic designing, imposition, color correcting and troubleshooting
