@@ -10,13 +10,23 @@ mobile: (407) 715-3901</p>
 
 ### Work Experience
 
-## Senior Prepress / Designer
+## Senior Prepress / Designer / Web Developer Programmer
 
  <strong> Digital Printing Solutions - Winter Park, FL </strong> &nbsp;&nbsp;&nbsp;&nbsp;
 2011 to Present
 
   My current duties consist of designing, preflighting, imposing pdf files to then plot direct to plate for 9 different presses ranging from 12x18 to 23x29
-
+  
+  Web development languages:
+   - Javascript
+   - Python
+   - PHP
+   - BASH
+   - RUBY
+   - C & C++
+   - SQL
+   - Swift
+  
 ## Prepress Tech
 
  <strong> Sun Publications - Lakeland, FL </strong> &nbsp;&nbsp;&nbsp;&nbsp;
